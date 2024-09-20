@@ -1,0 +1,22 @@
+
+
+.content{
+    width: 510px;
+    margin: 0 auto;
+}
+.content-title{
+    font-size: 22px;
+    text-align: center;
+}
+thead{
+    border: 3px;
+    border-color:blue ;
+}
+tbody{
+    border: 3px;
+    border-color:blue ;
+}
+tfoot{
+    border: 3px;
+    border-color:blue ;
+}
